@@ -29,18 +29,6 @@ Authentication: JWT
 
 
 
-📂 Project Structure
-tour-booking-system/
-├── frontend/        # React UI
-├── backend/         # Node + Express API
-├── models/          # Schemas
-├── routes/          # API routes
-├── controllers/     # Logic
-└── README.md
-
-
-
-
 ⚙️ Installation
 1️⃣ Clone Repository
 git clone https://github.com/your-username/tour-booking-system.git
